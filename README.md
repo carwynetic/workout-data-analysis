@@ -232,10 +232,11 @@ jupyter notebook notebooks/01_exploratory_data_analysis.ipynb
 ## 📚 Dataset
 
 * Lifestyle dataset (Kaggle):
-  [https://www.kaggle.com/datasets/jockeroika/life-style-data/data](https://www.kaggle.com/datasets/jockeroika/life-style-data/data)
+  https://www.kaggle.com/datasets/jockeroika/life-style-data/data
 
 ---
 
 ## 👨‍💻 Tác giả
 
 * Nguyễn Đoàn Bảo Phúc
+* Trần Thiên Anh Khoa
