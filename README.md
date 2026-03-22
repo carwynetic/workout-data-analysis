@@ -147,3 +147,4 @@ jupyter notebook notebooks/01_exploratory_data_analysis.ipynb
 ## 👨‍💻 Tác giả
 
 * Nguyễn Đoàn Bảo Phúc
+* Trần Thiện Anh Khoa
